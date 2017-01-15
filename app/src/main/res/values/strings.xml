@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="app_listen_sms_list">app_listen_sms_list</string>
+    <string name="app_imap_user_email">app_imap_user_email</string>
+    <string name="app_imap_user_pswd">app_imap_user_pswd</string>
+    <string name="app_imap_port">app_imap_port</string>
+    <string name="app_notification_email_mode">app_notification_email_mode</string>
+    <string name="app_notification_sms_mode">app_notification_sms_mode</string>
+    <string name="app_notification_email_list">app_notification_email_list</string>
+    <string name="title_activity_main_radar">MainRadarActivity</string>
+</resources>

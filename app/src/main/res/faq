@@ -1,0 +1,3 @@
+1.sms can't receive system broadcast
+http://android.stackexchange.com/questions/141990/after-upgrading-to-android-6-0-1-marshmallow-cant-send-or-receive-sms-texts
+Settings>Privacy and Safety> App permissions> SMS> more (top right corner)> Show system> and finally turn on Message service. Helped for me. ;)
